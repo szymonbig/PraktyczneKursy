@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktyczne kursy", "Praktyczne kursy\Praktyczne kursy.csproj", "{4E64D497-2117-4045-9425-6B92C61699BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktyczne kursy.Tests", "Praktyczne kursy.Tests\Praktyczne kursy.Tests.csproj", "{0F4235D8-E12C-4C18-BADD-FC9E902FF2B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E64D497-2117-4045-9425-6B92C61699BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E64D497-2117-4045-9425-6B92C61699BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E64D497-2117-4045-9425-6B92C61699BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E64D497-2117-4045-9425-6B92C61699BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4235D8-E12C-4C18-BADD-FC9E902FF2B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4235D8-E12C-4C18-BADD-FC9E902FF2B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4235D8-E12C-4C18-BADD-FC9E902FF2B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4235D8-E12C-4C18-BADD-FC9E902FF2B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CBAEC14-84DE-4DD4-8486-651315D7D058}
+	EndGlobalSection
+EndGlobal
